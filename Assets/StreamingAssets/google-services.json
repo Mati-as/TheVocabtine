@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "194146291094",
+    "firebase_url": "https://my-first-database-with-unity-default-rtdb.firebaseio.com/",
+    "project_id": "my-first-database-with-unity",
+    "storage_bucket": "my-first-database-with-unity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194146291094:android:5024b04421cb692ab761b7",
+        "android_client_info": {
+          "package_name": "com.firebase.test_mati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194146291094-4jk5muurvgpob42sc2ftnhlj82av65o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-_sKRjiBrtTm5yigEIddiyOSKuijIN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194146291094-4jk5muurvgpob42sc2ftnhlj82av65o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194146291094:android:f74e3d3ae8b8ac5ab761b7",
+        "android_client_info": {
+          "package_name": "com.masonKong.vocaptine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194146291094-4jk5muurvgpob42sc2ftnhlj82av65o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY-_sKRjiBrtTm5yigEIddiyOSKuijIN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194146291094-4jk5muurvgpob42sc2ftnhlj82av65o4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
